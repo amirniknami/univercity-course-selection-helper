@@ -1,0 +1,13 @@
+
+ @font-face {
+  font-family: 'homa';
+  src:
+      
+       url('webfont.otf') format('otf'), /* Pretty Modern Browsers */
+       url('webfont.ttf')  format('truetype'); /* Safari, Android, iOS */
+      
+}
+
+body {
+  font-family: 'homa',  sans-serif;
+}
